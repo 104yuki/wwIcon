@@ -1,0 +1,12 @@
+{
+    "name": "104yuki.wwicon",
+    "title": "word wrap icon",
+    "description": "Displays the status of the word wrap in the toolbar , you can switch its state.",
+    "homepage": "http://qiita.com/tohshima",
+    "version": "1.0.0",
+    "author": "toshiyuki ohshima <mltohshima@gmail.com>",
+    "license": "MIT",
+    "engines": {
+        "brackets": ">=0.20.0"
+    }
+}
