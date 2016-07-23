@@ -3,7 +3,7 @@
     "title": "word wrap icon",
     "description": "Displays the status of the word wrap in the toolbar , you can switch its state.",
     "homepage": "https://github.com/104yuki/wwIcon",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "author": "toshiyuki ohshima <mltohshima@gmail.com>",
     "license": "MIT",
     "engines": {
